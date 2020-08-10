@@ -1,6 +1,6 @@
 # Greetings 🖖
 
-My name is Nils and my pronouns are they/them.
+My name is Nils and my pronouns are they/them (though he/him are okay too).
 
 I am currently working through a tutorial series on Full Stack Django & React, you can find my code [here](https://github.com/shimst3r/django_react_series).
 
