@@ -2,7 +2,7 @@
 
 My name is Nils and my pronouns are they/them (though he/him are okay too).
 
-In the past I dabbled in [cloud automation](https://github.com/shimst3r/agipy) and [document encryption](https://github.com/shimst3r/blobvault). As you can guess, I have got the most experience in working with Python. :snake: Professionally I have mostly worked on Internet of Things and data engineering projects.
+In the past I dabbled in [cloud automation](https://github.com/shimst3r/agipy) and [document encryption](https://github.com/shimst3r/blobvault), right now I am looking into cloud security and [networking](https://github.com/shimst3r/multiport). As you can guess, I have got the most experience in working with Python. :snake: Professionally I have mostly worked on Internet of Things and data engineering projects.
 
 If you want to get to know more about me, check out [my GitHub Pages](https://shimst3r.github.io)!
 
