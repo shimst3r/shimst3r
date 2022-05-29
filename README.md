@@ -1,8 +1,10 @@
 # Peace and a long life. 🖖
 
-My name is Nils and my pronouns are they/them (though he/him are okay too).
+My name is Nils and my pronouns are he/him (though using they/them might make me like you more 🥹).
 
-I am a PhD student in the [Semantic Computing Group](http://www.sc.cit-ec.uni-bielefeld.de/index.php?id=29&L=0) at Bielefeld University. My research interests are fairness of machine learning and neural language models, as well as biomedical data engineering.
+I am a data engineer at [Kaufland E-Commerce](https://kaufland-ecommerce.com), the team behind [Kaufland.de](http://kaufland.de). Besides taking care of the marketplace's data infrastructure, I am leading an initiative to foster the [Go programming language](http://go.dev) within the product and infrastructure teams.
+
+Previously I was a PhD student in the [Semantic Computing Group](http://www.sc.cit-ec.uni-bielefeld.de/index.php?id=29&L=0) at Bielefeld University. My research interests were fairness of machine learning and neural language models, as well as biomedical data engineering.
 
 In the past I have worked as a backend developer, data engineer, and infrastructure engineer at various German companies. I am always looking for interesting open source projects to contribute to (mainly in Go or Python) and for opportunities to give talks (take a look at my last one, [exercism.io - One Platform, Three Perspectives](https://youtu.be/FKXRU_KL9Io)).
 
