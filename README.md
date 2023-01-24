@@ -1,6 +1,6 @@
 # Peace and a long life. 🖖
 
-My name is Nils and my pronouns are he/him (though using they/them might make me like you more 🥹).
+My name is Nils and my pronouns are he/him (EN) or er/ihm (DE).
 
 I am a senior data engineer at [Kaufland E-Commerce](https://kaufland-ecommerce.com), the team behind [Kaufland.de](http://kaufland.de). Besides taking care of the marketplace's data infrastructure, I am leading an initiative to foster the [Go programming language](http://go.dev) within the product and infrastructure teams.
 
