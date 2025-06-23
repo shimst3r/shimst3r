@@ -8,4 +8,4 @@
 
 ⏱️ In the past I have worked as a backend developer, data engineer, and infrastructure engineer as well as Scrum Master (PSM-1) at various German companies. I am always looking for interesting open source projects to contribute to (mainly in Go or Python) and for opportunities to give talks (including a talk on [Sustainable Architectural Decision Making](https://github.com/shimst3r/adr-talk/blob/main/presentation.pdf) and [exercism.io - One Platform, Three Perspectives](https://youtu.be/FKXRU_KL9Io)).
 
-😬 Fun Fact: I am currently living in Bielefeld, Germany, which is well known for the [Bielefeld Conspiracy](https://en.wikipedia.org/wiki/Bielefeld_Conspiracy).
+😬 Fun Fact: I recently joined the podcast "Ein Geek kommt selten allein" to talk about [AI and Mittelstand](https://www.eingeekkommtseltenallein.de/episode/der-digitale-mittelstand-mit-nils-mueller).
